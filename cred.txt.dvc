@@ -1,0 +1,5 @@
+outs:
+- md5: 7ab4afc6a7298a1bdbb5965e4a604d63
+  size: 104
+  hash: md5
+  path: cred.txt
